@@ -27,6 +27,7 @@ All three of the data files contain the same core six (6) columns:
 * Start Station (e.g., Broadway & Barry Ave)
 * End Station (e.g., Sedgwick St & North Ave)
 * User Type (Subscriber or Customer)
+
 The Chicago and New York City files also have the following two columns:
 
 * Gender

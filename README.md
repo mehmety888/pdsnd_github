@@ -13,14 +13,24 @@ In this project, data related to bike share systems for three major cities in th
 
 ### Files used
 Python script:
-
 * **bikeshare.py**
 
 Dataset files:
-
 * **chicago.csv**
 * **new_york_city.csv**
 * **washington.csv**
+
+All three of the data files contain the same core six (6) columns:
+* Start Time (e.g., 2017-01-01 00:07:57)
+* End Time (e.g., 2017-01-01 00:20:53)
+* Trip Duration (in seconds - e.g., 776)
+* Start Station (e.g., Broadway & Barry Ave)
+* End Station (e.g., Sedgwick St & North Ave)
+* User Type (Subscriber or Customer)
+The Chicago and New York City files also have the following two columns:
+
+* Gender
+* Birth Year
 
 The dataset was not provided in git repository because of the size of the files. Please contact with Udacity (https://udacity.zendesk.com/hc/en-us/requests/new) if you want to use these dataset.
 
